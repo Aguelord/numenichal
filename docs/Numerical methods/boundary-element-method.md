@@ -1,4 +1,4 @@
 ---
 title: Boundary Element Method
-layout: boundary-element-method
+parent: Numerical methods
 ---
