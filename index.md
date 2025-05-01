@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 Here is my personal GitHub page where where we'll talk about **numerical methods in mechanical engineering**, like *Finite or Boundary Elements Methods*, etc...
