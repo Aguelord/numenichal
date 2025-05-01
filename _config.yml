@@ -11,3 +11,5 @@ permissions:
   contents: read
   pages: write
   id-token: write
+
+logo: "/assets/images/logo.png"
