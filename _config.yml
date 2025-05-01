@@ -13,8 +13,11 @@ permissions:
   id-token: write
 
 logo: "/assets/images/numenichal_logo.png"
-favicon_ico: "/assets/images/favicon.ico"
+favicon_ico: "/assets/images/numenichal_ico.ico"
 
 nav_enabled: true
 
 color_scheme: dark
+
+ga_tracking: UA-2709176-10
+ga_tracking_anonymize_ip: true
