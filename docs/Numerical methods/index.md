@@ -11,10 +11,10 @@ Mermaid diagram:
 graph TD;
     accTitle: the diamond pattern
     accDescr: a graph with four nodes: A points to B and C, while B and C both point to D
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    Physical problem-->Mathematical abstraction;
+    Physical problem-->Numerical solution;
+    Mathematical abstraction-->Numerical solution;
+    Numerical solution-->Mathematical abstraction;
 ```
 
 There exist several numerical methods, each with its own advantages and limitations. Some of the most commonly used numerical methods in mechanical engineering include:
