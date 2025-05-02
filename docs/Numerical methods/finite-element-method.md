@@ -2,6 +2,7 @@
 title: Finite Element Method
 parent: Numerical methods
 nav_order: 2
+nav_enabled: true
 ---
 
 # Buttons
