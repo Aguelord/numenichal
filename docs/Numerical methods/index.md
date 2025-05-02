@@ -21,3 +21,11 @@ There exist several numerical methods, each with its own advantages and limitati
 ## Finite Element Method (FEM)
 ## Boundary Element Method (BEM)
 ## Finite Difference Method (FDM)
+
+# Interactive notebook
+
+<iframe src="/assets/notebooks/pluto_example.html"
+        width="100%"
+        height="600px"
+        frameborder="0">
+</iframe>
