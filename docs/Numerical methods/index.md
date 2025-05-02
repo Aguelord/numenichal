@@ -9,9 +9,9 @@ In mechanical engineering, numerical methods are essential for solving complex p
 graph LR;
     accTitle: the diamond pattern
     accDescr: the diamond pattern
-    id1[Physical Problem] --> id2[Mathematical Abstraction] & id3[Numerical Solution];
-    id2[Mathematical Abstraction] --> id3[Numerical Solution];
-    id3[Numerical Solution] --> id2[Mathematical Abstraction];
+    id1[Physical Problem] --> id2[Numerical Solution] & id3[Numerical Solution];
+    id2[Numerical Solution] --> id3[Numerical Solution];
+    id3[Mathematical Abstraction] --> id2[Numerical Solution];
 ```
 
 This diagram illustrates the iterative process of numerical methods in a historical context. First, a physical problem is defined. From this problem that we want to solve, engineers and physicists try to solve it using computers or handmade computations. Often, numerical solutions work first without any mathematical abstraction. It is the pragmatic soul of engineers. Then, mathematicians try to find a mathematical model that can be solved using numerical methods, to give a more general, systematic and rigourous frame to both the physical model and the numerical method to solve it.
