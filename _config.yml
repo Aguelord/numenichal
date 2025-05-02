@@ -17,6 +17,13 @@ favicon_ico: "/assets/images/numenichal_ico.ico"
 
 nav_enabled: true
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
 search_enabled: true
 search:
   # Split pages into sections that can be searched individually
