@@ -32,6 +32,14 @@ There exist several numerical methods, each with its own advantages and limitati
         frameborder="0">
 </iframe>
 
+## Pluto.jl local notebook example
+
+<iframe src="file:///C:/Users/User/Downloads/pluto_example.html"
+        width="100%"
+        height="600px"
+        frameborder="0">
+</iframe>
+
 ## Random webpage
 <iframe src="https://www.google.com"
         width="100%"
