@@ -5,17 +5,16 @@ title: Numerical methods
 
 In mechanical engineering, numerical methods are essential for solving complex problems that cannot be addressed analytically. These methods involve the use of algorithms and computational techniques to obtain approximate solutions to mathematical models. Numerical methods are widely used in various fields of mechanical engineering, including structural analysis, fluid dynamics, heat transfer, and optimization.
 
-Mermaid diagram:
-
 ```mermaid
-graph TD;
+graph LR;
     accTitle: the diamond pattern
-    accDescr: a graph with four nodes: A points to B and C, while B and C both point to D
-    Physical problem-->Mathematical abstraction;
-    Physical problem-->Numerical solution;
-    Mathematical abstraction-->Numerical solution;
-    Numerical solution-->Mathematical abstraction;
+    accDescr: the diamond pattern
+    id1[Physical Problem] --> id2[Mathematical Abstraction] & id3[Numerical Solution];
+    id2[Mathematical Abstraction] --> id3[Numerical Solution];
+    id3[Numerical Solution] --> id2[Mathematical Abstraction];
 ```
+
+This diagram illustrates the iterative process of numerical methods in a historical context. First, a physical problem is defined. From this problem that we want to solve, engineers and physicists try to solve it using computers or handmade computations. Often, numerical solutions work first without any mathematical abstraction. It is the pragmatic soul of engineers. Then, mathematicians try to find a mathematical model that can be solved using numerical methods, to give a more general, systematic and rigourous frame to both the physical model and the numerical method to solve it.
 
 There exist several numerical methods, each with its own advantages and limitations. Some of the most commonly used numerical methods in mechanical engineering include:
 
