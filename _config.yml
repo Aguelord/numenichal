@@ -25,4 +25,4 @@ ga_tracking_anonymize_ip: true
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
-  version: "11.6.0"
+  version: "9.1.3"
