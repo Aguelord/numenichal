@@ -21,3 +21,8 @@ color_scheme: light
 
 ga_tracking: UA-2709176-10
 ga_tracking_anonymize_ip: true
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "11.6.0"
