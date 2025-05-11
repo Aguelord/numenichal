@@ -3,12 +3,17 @@ title: Numerical methods
 ---
 # Numerical methods
 
-In a perfect world, we would be able to solve all the problems we encounter using analytical methods. For exemple, let's take a beem loaded by a force with two main hypotheses: 
+In a perfect world, we would be able to solve all the problems we encounter using analytical methods. For example, let's take a beam loaded by a force with two main hypotheses: 
 
-1. During the deformation, the cross-section stay perpendicular to the neutral axis of the beam.
+1. During the deformation, the cross-section stays straight and perpendicular to the neutral axis of the beam.
 2. There is no relative rotation between the cross-section of the beam.
 
-These two hypotheses are called the Euler-Bernoulli hypotheses and are the basis of the Euler-Bernoulli beam theory.
+These two hypotheses are called the **Euler-Bernoulli hypotheses** and are the basis of the Euler-Bernoulli beam theory. A last hypothesis is the so-called small deformation hypothesis, which states that the deflection of the beam is small compared to its length. This means that the angle of rotation of the beam is small and can be approximated by :
+
+$$\theta(x) = \frac{\mathrm d\delta}{\mathrm dx}, \quad \theta^2\approx 0$$
+
+Which is a first-order approximation of the angle between the tangent to the beam and the horizontal axis. 
+In this equation, $\theta(x)$ is the angle of rotation of the beam at point $x$ and $\delta$ is the deflection of the beam, which is the vertical displacement of the beam at point $x$. Note that point $x$ is, for instance, the curvilinear abscissa of any point on the beam. This is useful to stay in a 1D framework and scalar functions.
 
 ![image](/numenichal/assets/images/euler-bernoulli-hyp.png)
 
