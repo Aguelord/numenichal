@@ -13,7 +13,7 @@ These two hypotheses are called the **Euler-Bernoulli hypotheses** and are the b
 $$\theta(x) = \frac{\mathrm d\delta}{\mathrm dx}, \quad \theta^2\approx 0$$
 
 Which is a first-order approximation of the angle between the tangent to the beam and the horizontal axis. 
-In this equation, $$\theta(x)$$ is the angle of rotation of the beam at point $x$ and $\delta$ is the deflection of the beam, which is the **vertical displacement** of the beam at point $x$. Note that point $x$ is, for instance, the curvilinear abscissa of any point on the beam. This is useful to stay in a 1D framework and scalar functions.
+In this equation, $$\theta(x)$$ is the angle of rotation of the beam at point $$x$$ and $$\delta$$ is the deflection of the beam, which is the **vertical displacement** of the beam at point $$x$$. Note that point $$x$$ is, for instance, the curvilinear abscissa of any point on the beam. This is useful to stay in a 1D framework and scalar functions.
 
 ![image](/numenichal/assets/images/euler-bernoulli-hyp.png)
 
@@ -21,7 +21,7 @@ Then, the Euler-Bernoulli relation, that relates the deflection of the beam to t
 
 $$\frac{\mathrm d^2}{\mathrm dx^2}\left(EI\frac{\mathrm d^2\delta(x)}{\mathrm dx^2}\right)=q(x)$$
 
-Where $q$ is the distributed load applied to the beam, $E$ is the Young's modulus of the material, and $I$ is the moment of inertia of the beam's cross-section.
+Where $$q$$ is the distributed load applied to the beam, $$E$$ is the Young's modulus of the material, and $$I$$ is the moment of inertia of the beam's cross-section.
 
 In mechanical engineering, numerical methods are essential for solving complex problems that cannot be addressed analytically. These methods involve the use of algorithms and computational techniques to obtain approximate solutions to mathematical models. Numerical methods are widely used in various fields of mechanical engineering, including structural analysis, fluid dynamics, heat transfer, and optimization.
 
