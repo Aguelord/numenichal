@@ -13,7 +13,7 @@ These two hypotheses are called the **Euler-Bernoulli hypotheses** and are the b
 $$\theta(x) = \frac{\mathrm d\delta}{\mathrm dx}, \quad \theta^2\approx 0$$
 
 Which is a first-order approximation of the angle between the tangent to the beam and the horizontal axis. 
-In this equation, \(\theta(x)\) is the angle of rotation of the beam at point $x$ and $\delta$ is the deflection of the beam, which is the **vertical displacement** of the beam at point $x$. Note that point $x$ is, for instance, the curvilinear abscissa of any point on the beam. This is useful to stay in a 1D framework and scalar functions.
+In this equation, $$\theta(x)$$ is the angle of rotation of the beam at point $x$ and $\delta$ is the deflection of the beam, which is the **vertical displacement** of the beam at point $x$. Note that point $x$ is, for instance, the curvilinear abscissa of any point on the beam. This is useful to stay in a 1D framework and scalar functions.
 
 ![image](/numenichal/assets/images/euler-bernoulli-hyp.png)
 
