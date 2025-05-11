@@ -10,7 +10,7 @@ In a perfect world, we would be able to solve all the problems we encounter usin
 
 These two hypotheses are called the Euler-Bernoulli hypotheses and are the basis of the Euler-Bernoulli beam theory.
 
-![image](/assets/images/euler-bernoulli-hyp.png)
+![image](/numenichal/assets/images/euler-bernoulli-hyp.png)
 
 In mechanical engineering, numerical methods are essential for solving complex problems that cannot be addressed analytically. These methods involve the use of algorithms and computational techniques to obtain approximate solutions to mathematical models. Numerical methods are widely used in various fields of mechanical engineering, including structural analysis, fluid dynamics, heat transfer, and optimization.
 
@@ -38,7 +38,7 @@ The idea of the finite element method is to divide a complex structure (with its
 
 ## Pluto.jl notebook example
 
-<iframe src="/assets/notebooks/pluto_example.html"
+<iframe src="/numenichal/assets/notebooks/pluto_example.html"
         width="100%"
         height="600px"
         frameborder="0">
