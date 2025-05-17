@@ -49,7 +49,7 @@ Julia is a programming language that is easy to learn and use. Their marketing s
 
 Code blocks are some notebook-like spaces for the vulgarisers to demonstrate the theorical aspects of one of the fields covered by the project. For example :
 
-<iframe src="/numenichal/assets/notebooks/contributing_md.html"
+<iframe src="/assets/notebooks/contributing_md.html"
         width="100%"
         height="600px"
         frameborder="0">
