@@ -55,6 +55,6 @@ Code blocks are some notebook-like spaces for the vulgarisers to demonstrate the
         frameborder="0">
 </iframe>
 
-For this purpose, we will use the [Pluto.jl](https://plutojl.org/) package, which is a notebook interface for Julia. For each notebook, you must export it to static HTML and put it in the [assets/notebooks](assets\notebooks) folder.
+For this purpose, we will use the [Pluto.jl](https://plutojl.org/) package, which is a notebook interface for Julia. For each notebook, you must export it to static HTML and put it in the [assets/notebooks](numenichal\assets\notebooks) folder.
 
 #### Latex
