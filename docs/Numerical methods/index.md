@@ -40,7 +40,7 @@ There exist several numerical methods, each with its own advantages and limitati
 
 ## Finite Element Method (FEM)
 
-The idea of the finite element method is to divide a complex structure (with its geometry) into smaller, simpler parts called finite elements. We transform the original continuous problem into a discrete problem by approximating the solution using piecewise polynomial functions. See the whole chapter on [Finite Element Method](\finite-element-method.html) for more details.
+The idea of the finite element method is to divide a complex structure (with its geometry) into smaller, simpler parts called finite elements. We transform the original continuous problem into a discrete problem by approximating the solution using piecewise polynomial functions. See the whole chapter on [Finite Element Method](/numenichal/docs/Numerical%20methods/finite-element-method.html) for more details.
 
 ## Boundary Element Method (BEM)
 
