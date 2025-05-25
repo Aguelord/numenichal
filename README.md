@@ -9,7 +9,7 @@
 
 The website is hosted on [GitHub Pages][GitHub Pages] and built with [Jekyll][Jekyll] using the [Just the Docs][Just the Docs] theme.
 
-Link of the website: [https://numenichal.github.io/](https://numenichal.github.io/)
+Link of the website: [https://numenichal.github.io/](https://aguelord.github.io/numenichal/)
 
 This is my personal GitHub page where where we'll talk about **numerical methods in mechanical engineering**, like *Finite or Boundary Elements Methods*, etc...
 
