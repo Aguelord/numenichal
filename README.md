@@ -1,7 +1,7 @@
 <picture>
   <source
     width="256px"
-    srcset="assets/images/numenichal_logo.png"
+    srcset="/assets/images/numenichal_logo.png"
   />
 </picture>
 
