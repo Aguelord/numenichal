@@ -1,7 +1,9 @@
-<picture>
-  <source srcset="assets/images/numenichal_logo.png" type="image/png">
-  <img src="assets/images/numenichal_logo.png" width="256px" alt="Numenichal Logo">
-</picture>
+<p align="center">
+  <picture>
+    <source srcset="assets/images/numenichal_logo.png" type="image/png">
+    <img src="assets/images/numenichal_logo.png" width="256px" alt="Numenichal Logo">
+  </picture>
+</p>
 
 Here is my personal GitHub page where where we'll talk about **numerical methods in mechanical engineering**, like *Finite or Boundary Elements Methods*, etc...
 
