@@ -1,4 +1,4 @@
-[image](assets/images/numenical_logo.png)
+[image](assets/images/numenichal_logo.png)
 
 Here is my personal GitHub page where where we'll talk about **numerical methods in mechanical engineering**, like *Finite or Boundary Elements Methods*, etc...
 
