@@ -40,10 +40,23 @@ There exist several numerical methods, each with its own advantages and limitati
 
 ## Finite Element Method (FEM)
 
-The idea of the finite element method is to divide a complex structure (with its geometry) into smaller, simpler parts called finite elements.
+The idea of the finite element method is to divide a complex structure (with its geometry) into smaller, simpler parts called finite elements. We transform the original continuous problem into a discrete problem by approximating the solution using piecewise polynomial functions. See the whole chapter on [Finite Element Method](\finite-element-method.md) for more details.
 
 ## Boundary Element Method (BEM)
+
+The boundary element method is less popular and less used than the finite element method, because of its mathematical foundations that took more time to be solved and implemented. Yet, it is nowadays a very powerful method that begins to be used in many applications. Its core idea is to reduce the dimensionality of the problem by solving it on the boundary of the domain rather than throughout the entire volume. It involves discretizing the boundary of the domain into 2D elements (for 3D problems) and solving the governing equations on these boundaries. See the whole chapter on [Boundary Element Method](\boundary-element-method.md) for more details.
+
 ## Finite Difference Method (FDM)
+
+## Historical comparison
+
+I suggest you to read the article [Heritage and early history of the boundary element method](https://www.sciencedirect.com/science/article/pii/S0955799705000020) by Alexander H.-D. Cheng and Daisy T. Cheng which gives a very good overview of the history of the boundary element method, and how it compares to the finite element method. It has been done in 2004. For example, we can extract the following table from the article:
+
+| Method | Search phrase in topic field                                     | No. of entries |
+| ------ | ---------------------------------------------------------------- | -------------- |
+| FEM    | ‘Finite element’ or ‘finite elements’                            | 66,237         |
+| FDM    | ‘Finite difference’ or ‘finite differences’                      | 19,531         |
+| BEM    | ‘Boundary element’ or ‘boundary elements’ or ‘boundary integral’ | 10,126         |
 
 # HTML blocs
 
