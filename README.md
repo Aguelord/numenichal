@@ -2,7 +2,6 @@
   <picture>
     <source
       width="256px"
-      media="(prefers-color-scheme: dark)"
       srcset="/assets/images/numenichal_logo.png"
     />
   </picture>
