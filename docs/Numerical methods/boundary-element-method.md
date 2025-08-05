@@ -10,4 +10,6 @@ The idea of the boundary element method (BEM) is quite simple: instead of solvin
 
 In the FEM framework, the number of dofs in the whole volume is $$n^3$$, whereas in the BEM framework, the number of dofs is reduced to $$6n^2$$.
 
-![image](/numenichal/assets/images/meshes/cube_2Dmesh.png) ![image](/numenichal/assets/images/meshes/cube_3Dmesh.png)
+<img src="drawing.jpg" alt="drawing" width="200"/>
+
+![image](/numenichal/assets/images/meshes/cube_2D_3D_mesh.png)
